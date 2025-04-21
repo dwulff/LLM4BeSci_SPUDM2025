@@ -1,4 +1,4 @@
-## LLM4BeSci at GSERM, Ljubljana 2025
+## LLM4BeSci at SPUDM, Lucca 2025
 
 ![cover image](cover.png)
 
@@ -10,62 +10,36 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 1
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:45 AM - 10:45 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
-10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
-12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 01:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
-01:45 PM - 02:00 PM: Setup Colab<br>
-02:00 PM - 02:15 PM: Break<br>
-02:15 PM - 02:45 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
-02:45 PM - 03:15 PM: Walkthrough<br>
-03:15 PM - 04:00 PM: Consulting<br>
+09:30 AM - 10:30 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
+10:30 AM - 10:45 AM: Break<br>
+10:45 AM - 11:45 AM: Discussion: Find applications in small groups<br>
+11:45 AM - 12:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
+12:30 PM - 02:00 PM: Lunch<br>
+02:00 PM - 02:15 PM: Setup Colab<br>
+02:15 PM - 03:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+03:00 PM - 03:15 PM: Walkthrough<br>
+03:15 PM - 03:30 PM: Break<br>
+03:30 AM - 04:30 AM: [Talk: Intro to transformers & embeddings](day_2/day_2.pdf)<br>
+04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 2
-09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: [Talk: Intro to transformers & embeddings](day_2/day_2.pdf)<br>
-10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2.pdf)<br>
-12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Clarifying personality psychology](day_2/day_2.ipynb)<br>
-02:00 PM - 02:30 PM: Walkthrough<br>
-02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
-03:15 PM - 04:00 PM: Consulting<be>
+09:30 AM - 10:00 AM: Recap quiz<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2.pdf)<br>
+11:00 AM - 11:15 AM: Break<br>
+11:15 AM - 12:00 AM: [Exercise: Clarifying self-reports](day_2/day_2.ipynb)<br>
+12:00 PM - 12:30 PM: Walkthrough<br>
+12:30 PM - 02:00 PM: Lunch<br>
+02:00 PM - 03:00 PM: Discussion: Find applications in small groups<br>
+03:00 PM - 03:30 PM: Break<br>
+03:30 PM - 04:30 PM: [Intro to textgen](day_3/day_3.pdf)<br>
+04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 3
-09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: [Intro to classification and regression](day_3/day_3.pdf)<br>
-10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: [Exercise: Classifying media bias w/ zero & few-shot](day_3/day_3a.ipynb)<br>
-12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Classifying media bias w/ fine-tuning](day_3/day_3b.ipynb)<br>
-02:00 PM - 02:30 PM: Walkthrough<br>
-02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
-03:15 PM - 04:00 PM: Consulting<be>
-
-#### Day 4
-09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: [Intro to text generation & synthetic participants](day_4/day_4.pdf)<br>
-10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: [Exercise: Numeracy](day_4/day_4a.ipynb)<br>
-12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Steering vaccine hesitancy response](day_4/day_4b.ipynb)<br>
-02:00 PM - 02:30 PM: Walkthrough<br>
-02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
-03:15 PM - 04:00 PM: Consulting<be>
-
-#### Day 5
-09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: [Talk: Intro to qualitative data analysis](day_5/day_5.pdf)<br>
-10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: [Exercise: Article and interview Q&A](day_5/day_5.ipynb)<br>
-12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 03:00 PM: Project pitches<br>
-03:00 PM - 03:15 PM: Wrap up<br>
-03:15 PM - 04:00 PM: Consulting<be>
-
-### Examination
-The course grade will be determined based on the quality of a project pitch at the end of the course and a two-page research paper submitted after the course. The paper communicates an analysis applying large language models to a personal research question, including all parts of a traditional research paper (introduction, method, results, and discussion). The research paper can be based on the examples during the course. The research paper must be submitted via mail (wulff at mpib-berlin.mpg.de) by June 28th. To enroll for the research paper send us the slides of your project sketch presentation via mail immediately after the conclusion of the course.      
+09:30 AM - 10:00 AM: Recap quiz<br>
+10:00 AM - 11:00 AM: [Exercise: Classifying media bias w/ zero & few-shot](day_3/day_3a.ipynb)<br>
+11:00 AM - 11:30 AM: Walkthrough<br>
+11:30 PM - 11:45 PM: Break<br>
+11:45 PM - 12:30 PM: Discussion: Find applications in small groups<br>
 
 ### Resources
 <a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
@@ -78,6 +52,18 @@ The course grade will be determined based on the quality of a project pitch at t
   pages={1--24},
   year={2024},
   publisher={Springer}
+}
+```
+
+<a href="https://osf.io/preprints/osf/ybvzs_v1">Wulff, Hussain, & Mata (2024). The behavioral and social sciences need open LLMs
+. *OSF preprint*.
+</a>
+```
+@article{wulff2024openllms,
+  title={The behavioral and social sciences need open LLMs},
+  author={Wulff, Dirk U and Hussain, Zak and Mata, Rui},
+  journal={OSF},
+  year={2024}
 }
 ```
 
