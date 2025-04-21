@@ -10,33 +10,33 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 1
 <font style="font-size:10">09:30 AM - 09:45 AM: Welcome & Intro<br>
-09:45 AM - 10:45 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
+09:45 AM - 10:45 AM: [Talk: Intro to LLMs]()<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 11:45 AM: Discussion: Find applications in small groups<br>
-11:45 AM - 12:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
+11:45 AM - 12:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 02:15 PM: Setup Colab<br>
-02:15 PM - 03:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+02:15 PM - 03:00 PM: [Exercise: Running pipelines]()<br>
 03:00 PM - 03:15 PM: Walkthrough<br>
 03:15 PM - 03:30 PM: Break<br>
-03:30 AM - 04:30 AM: [Talk: Intro to transformers & embeddings](day_2/day_2.pdf)<br>
+03:30 AM - 04:30 AM: [Talk: Intro to transformers & embeddings]()<br>
 04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2.pdf)<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)]()<br>
 11:00 AM - 11:15 AM: Break<br>
-11:15 AM - 12:00 AM: [Exercise: Clarifying self-reports](day_2/day_2.ipynb)<br>
+11:15 AM - 12:00 AM: [Exercise: Clarifying self-reports]()<br>
 12:00 PM - 12:30 PM: Walkthrough<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: Discussion: Find applications in small groups<br>
 03:00 PM - 03:30 PM: Break<br>
-03:30 PM - 04:30 PM: [Intro to textgen](day_3/day_3.pdf)<br>
+03:30 PM - 04:30 PM: [Intro to textgen]()<br>
 04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 3
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Exercise: Classifying media bias w/ zero & few-shot](day_3/day_3a.ipynb)<br>
+10:00 AM - 11:00 AM: [Exercise: Classifying media bias w/ zero & few-shot]()<br>
 11:00 AM - 11:30 AM: Walkthrough<br>
 11:30 PM - 11:45 PM: Break<br>
 11:45 PM - 12:30 PM: Discussion: Find applications in small groups<br>
