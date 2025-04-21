@@ -93,7 +93,7 @@ drive.mount("/content/drive")
 8. Create a second cell in your notebook using the "+ Code" button that appears when you hover your cursor right under the first cell. Copy and run the following code snippet in the second cell of your notebook to clone the GitHub repository to your Google Drive :
 ```
 %cd /content/drive/MyDrive
-!git clone https://github.com/Zak-Hussain/LLM4BeSci_Ljubljana2025
+!git clone https://github.com/dwulff/LLM4BeSci_SPUDM25
 ```
 9. Go back to your Google Drive and navigate to the folder "LLM4BeSci_Ljubljana2025". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
 
