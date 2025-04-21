@@ -2,7 +2,9 @@
 
 ![cover image](cover.png)
 
-The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. Materials will be uploaded shortly before the start of the course.
+The course introduces the use of open large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. In short lectures, participants will learn about key concepts (e.g., the attention mechanism, feature extraction, and text generation) and practical examples from behavioral science.
+
+Materials will be uploaded shortly before the start of the course.
 
 By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussain](https://zak-hussain.github.io/)
 
