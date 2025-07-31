@@ -28,7 +28,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 09:30 AM - 10:00 AM: Recap quiz<br>
 10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)]()<br>
 11:00 AM - 11:15 AM: Break<br>
-11:15 AM - 12:00 AM: [Exercise: Clarifying self-reports]()<br>
+11:15 AM - 12:00 AM: [Exercise: Embeddings for clustering]()<br>
 12:00 PM - 12:30 PM: Walkthrough<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: Discussion: Find applications in small groups<br>
@@ -38,7 +38,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 3
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Exercise: Classifying media bias w/ zero & few-shot]()<br>
+10:00 AM - 11:00 AM: [Exercise: Text gen for prediction]()<br>
 11:00 AM - 11:30 AM: Walkthrough<br>
 11:30 PM - 11:45 PM: Break<br>
 11:45 PM - 12:30 PM: Discussion: Find applications in small groups<br>
