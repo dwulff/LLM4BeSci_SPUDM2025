@@ -97,7 +97,7 @@ drive.mount("/content/drive")
 %cd /content/drive/MyDrive
 !git clone https://github.com/dwulff/LLM4BeSci_SPUDM25
 ```
-9. Go back to your Google Drive and navigate to the folder "LLM4BeSci_Ljubljana2025". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
+9. Go back to your Google Drive and navigate to the folder "LLM4BeSci_SPUDM25". You should see the directories containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
 
 You have now successfully set up your Google Colab environment and cloned the GitHub repository! 
 
