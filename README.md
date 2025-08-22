@@ -2,7 +2,7 @@
 
 ![cover image](cover.png)
 
-The course introduces the use of open large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. In short lectures, participants will learn about key concepts (e.g., the attention mechanism, feature extraction, and text generation) and practical examples from behavioral science.
+The course introduces the use of open large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral sciences. In short lectures, participants will learn about key concepts (e.g., the attention mechanism, feature extraction, and text generation) and practical examples from behavioral science.
 
 Materials will be uploaded shortly before the start of the course.
 
@@ -18,7 +18,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 11:45 AM - 12:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 02:15 PM: Setup Colab<br>
-02:15 PM - 03:00 PM: [Exercise: Running pipelines]()<br>
+02:15 PM - 03:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 03:00 PM - 03:15 PM: Walkthrough<br>
 03:15 PM - 03:30 PM: Break<br>
 03:30 AM - 04:30 AM: [Talk: Intro to transformers & embeddings]()<br>
@@ -28,7 +28,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 09:30 AM - 10:00 AM: Recap quiz<br>
 10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)]()<br>
 11:00 AM - 11:15 AM: Break<br>
-11:15 AM - 12:00 AM: [Exercise: Embeddings for clustering]()<br>
+11:15 AM - 12:00 AM: [Exercise: Embeddings for clustering](day_2/day_2a.ipynb)<br>
 12:00 PM - 12:30 PM: Walkthrough<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: Discussion: Find applications in small groups<br>
@@ -38,7 +38,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 3
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Exercise: Text gen for prediction]()<br>
+10:00 AM - 11:00 AM: Exercise: Text gen for [classification](day_3/day_3a.ipynb) and [synthetic participants](day_3/day_3b.ipynb)<br>
 11:00 AM - 11:30 AM: Walkthrough<br>
 11:30 PM - 11:45 PM: Break<br>
 11:45 PM - 12:30 PM: Discussion: Find applications in small groups<br>
