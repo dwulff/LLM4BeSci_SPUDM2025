@@ -38,7 +38,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 3
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: Exercise: Text gen for [classification]() and [synthetic participants]()<br>
+10:00 AM - 11:00 AM: Exercise: Text gen for [classification]()<br>
 11:00 AM - 11:30 AM: Walkthrough<br>
 11:30 PM - 11:45 PM: Break<br>
 11:45 PM - 12:30 PM: Discussion: Find applications in small groups<br>
