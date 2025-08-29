@@ -17,12 +17,12 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 11:30 AM - 12:30 PM: Discussion: Find applications in small groups<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 02:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
-02:30 PM - 03:00 PM: Setup Colab<br>
-03:00 PM - 03:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
-03:30 PM - 03:45 PM: Break<br>
-03:45 PM - 04:00 PM: Walkthrough<br>
-04:00 AM - 04:45 AM: [Talk: Intro to transformers & embeddings]()<br>
-04:45 PM - 05:00 PM: Open questions<br>
+02:30 PM - 02:45 PM: Setup Colab<br>
+02:45 PM - 03:15 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+03:15 PM - 03:30 PM: Break<br>
+03:30 PM - 03:45 PM: Walkthrough<br>
+03:45 AM - 04:30 AM: [Talk: Intro to transformers & embeddings]()<br>
+04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
