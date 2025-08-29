@@ -11,18 +11,18 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">09:30 AM - 09:45 AM: Welcome & Intro<br>
-09:45 AM - 10:45 AM: [Talk: Intro to LLMs]()<br>
-10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 11:45 AM: Discussion: Find applications in small groups<br>
-11:45 AM - 12:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
+<font style="font-size:10">09:30 AM - 10:15 AM: Welcome & Intro<br>
+10:15 AM - 11:15 AM: [Talk: Intro to LLMs]()<br>
+11:15 AM - 11:30 AM: Break<br>
+11:30 AM - 12:30 PM: Discussion: Find applications in small groups<br>
 12:30 PM - 02:00 PM: Lunch<br>
-02:00 PM - 02:15 PM: Setup Colab<br>
-02:15 PM - 03:00 PM: [Exercise: Running pipelines]()<br>
-03:00 PM - 03:15 PM: Walkthrough<br>
-03:15 PM - 03:30 PM: Break<br>
-03:30 AM - 04:30 AM: [Talk: Intro to transformers & embeddings]()<br>
-04:30 PM - 05:00 PM: Open questions<br>
+02:00 PM - 02:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
+02:30 PM - 03:00 PM: Setup Colab<br>
+03:00 PM - 03:30 PM: [Exercise: Running pipelines]()<br>
+03:30 PM - 03:45 PM: Break<br>
+03:45 PM - 04:00 PM: Walkthrough<br>
+04:00 AM - 04:45 AM: [Talk: Intro to transformers & embeddings]()<br>
+04:45 PM - 05:00 PM: Open questions<br>
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
@@ -38,7 +38,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 3
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: Exercise: Text gen for [classification]() and [synthetic participants]()<br>
+10:00 AM - 11:00 AM: Exercise: Text gen for [classification]()<br>
 11:00 AM - 11:30 AM: Walkthrough<br>
 11:30 PM - 11:45 PM: Break<br>
 11:45 PM - 12:30 PM: Discussion: Find applications in small groups<br>
@@ -77,7 +77,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Hugging Face and Meta Llama License
 1. Make sure you have a hugging Face account (https://huggingface.co/join).
-2. Go to the [`meta-llama/Llama-3.2-3B-Instruct` model page](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) and fill in the 'COMMUNITY LICENSE AGREEMENT' form at the top of the page to get access to the model (this may take a few hours).
+2. Go to the [`meta-llama/Llama-3.2-3B-Instruct` model page](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) and fill in the 'COMMUNITY LICENSE AGREEMENT' form at the top of the page to get access to the model (this may take a day or so).
 3. Once you have been granted access to the model, you can navigate to [your Hugging Face profile settings](https://huggingface.co/settings/tokens) to generate an API token (+Create new token). Set the token type to 'Read' and give it a name (e.g., 'LLM4BeSci_Ljubljana2025').
 
 #### Google Colab and GitHub Repository
