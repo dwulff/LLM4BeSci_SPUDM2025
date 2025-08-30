@@ -26,7 +26,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)](day_1/day_1c.pdf)<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)](day_1/day_2a.pdf)<br>
 11:00 AM - 11:15 AM: Break<br>
 11:15 AM - 12:00 AM: [Exercise: Embeddings for clustering](day_2/day_2.ipynb)<br>
 12:00 PM - 12:30 PM: Walkthrough<br>
