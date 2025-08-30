@@ -33,7 +33,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: Discussion: Find applications in small groups<br>
 03:00 PM - 03:30 PM: Break<br>
-03:30 PM - 04:30 PM: [Intro to classification & regression](day_2/day_2b.pdf)<br>
+03:30 PM - 04:30 PM: [Intro to classification & regression](day_2/day_2a.pdf)<br>
 04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 3
