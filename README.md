@@ -12,28 +12,28 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 1
 <font style="font-size:10">09:30 AM - 10:15 AM: Welcome & Intro<br>
-10:15 AM - 11:15 AM: [Talk: Intro to LLMs]()<br>
+10:15 AM - 11:15 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 11:15 AM - 11:30 AM: Break<br>
 11:30 AM - 12:30 PM: Discussion: Find applications in small groups<br>
 12:30 PM - 02:00 PM: Lunch<br>
-02:00 PM - 02:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
+02:00 PM - 02:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
 02:30 PM - 02:45 PM: Setup Colab<br>
 02:45 PM - 03:15 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 03:15 PM - 03:30 PM: Break<br>
 03:30 PM - 03:45 PM: Walkthrough<br>
-03:45 AM - 04:30 AM: [Talk: Intro to transformers & embeddings]()<br>
+03:45 AM - 04:30 AM: [Talk: Intro to transformers & embeddings](day_1/day_1c.pdf)<br>
 04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)]()<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings (continued)](day_1/day_1c.pdf)<br>
 11:00 AM - 11:15 AM: Break<br>
 11:15 AM - 12:00 AM: [Exercise: Embeddings for clustering](day_2/day_2.ipynb)<br>
 12:00 PM - 12:30 PM: Walkthrough<br>
 12:30 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: Discussion: Find applications in small groups<br>
 03:00 PM - 03:30 PM: Break<br>
-03:30 PM - 04:30 PM: [Intro to textgen]()<br>
+03:30 PM - 04:30 PM: [Intro to classification & regression](day_2/day_2a.pdf)<br>
 04:30 PM - 05:00 PM: Open questions<br>
 
 #### Day 3
